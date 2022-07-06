@@ -73,6 +73,12 @@ section button {
 /* stile lista */
 ul {
     list-style-type: none;
+    margin-left: 30px;
+}
+
+li {
+    margin-left: 15px;
+    padding: 10px;
 }
 
 /* /stile lista */
