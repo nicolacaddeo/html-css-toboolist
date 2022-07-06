@@ -1,4 +1,4 @@
-/* CSS RESET */
+/* REGOLE GENERALI */
 * {
     margin: 0;
     padding: 0;
@@ -8,3 +8,5 @@
 body {
     font-family: 'Roboto Condensed', sans-serif;
 }
+
+/* /REGOLE GENERALI */
