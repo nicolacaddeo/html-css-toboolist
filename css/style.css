@@ -48,16 +48,19 @@ main {
 }
 
 section button {
-    font-size: 0.8rem;
+    font-size: 0.7rem;
     width: 75px;
     height: 25px;
     border-radius: 5px;
     border: 1px solid #f6f8f9;
+    font-weight: bold;
 }
 
 #add-task {
     margin-left: 30px;
     margin-top: 15px;
+    background-color: #47adf1;
+    color: #fff;
 }
 
 /* /stile bottoni */
