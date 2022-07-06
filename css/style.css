@@ -83,13 +83,33 @@ li {
 
 .check::after {
     content: '\2713';
+    color: #64c466;
+}
+
+.check {
+    color: #64c466;
 }
 
 .cross::after {
     content: '\2573';
+    color: #eb4d3d;
 }
 
-.circle {}
+.cross {
+    color: #eb4d3d;
+}
+
+.circle {
+    border: 1px solid;
+    border-radius: 50%;
+    text-align: center;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    font-size: 0.7rem;
+}
+
+
 
 /* /stile lista */
 
