@@ -32,3 +32,12 @@ header img {
 }
 
 /* /STILE HEADER */
+
+/* STILE MAIN */
+main {
+    max-width: 1000px;
+    background-color: #fff;
+    margin: 40px auto;
+}
+
+/* /STILE MAIN */
