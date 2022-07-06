@@ -48,9 +48,9 @@ main {
 }
 
 section button {
-    font-size: 0.7rem;
-    width: 75px;
-    height: 25px;
+    font-size: 0.8rem;
+    width: 80px;
+    height: 30px;
     border-radius: 5px;
     border: 1px solid #f6f8f9;
     font-weight: bold;
