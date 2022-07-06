@@ -81,6 +81,16 @@ li {
     padding: 10px;
 }
 
+.check::after {
+    content: '\2713';
+}
+
+.cross::after {
+    content: '\2573';
+}
+
+.circle {}
+
 /* /stile lista */
 
 /* /STILE MAIN */
