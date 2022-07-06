@@ -11,3 +11,24 @@ body {
 }
 
 /* /REGOLE GENERALI */
+
+/* STILE HEADER */
+header {
+    height: 80px;
+    background-color: #fff;
+}
+
+h1 {
+    display: inline-block;
+    font-size: 3rem;
+    vertical-align: middle;
+    line-height: 80px;
+
+}
+
+header img {
+    padding-left: 20px;
+    vertical-align: middle;
+}
+
+/* /STILE HEADER */
