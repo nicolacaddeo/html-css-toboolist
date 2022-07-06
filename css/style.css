@@ -35,13 +35,19 @@ header img {
 
 /* STILE MAIN */
 main {
-    max-width: 1000px;
+    width: 1000px;
     background-color: #fff;
     margin: 40px auto;
+    border-radius: 5px;
 }
+
 
 #list-button {
     border-bottom: 1px solid #f6f8f9;
 }
+
+
+
+
 
 /* /STILE MAIN */
